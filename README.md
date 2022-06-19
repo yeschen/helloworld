@@ -1,10 +1,10 @@
 # helloworld
 First Github Repository
 
-Hi This is Tony,
+Hey iy's Tony,
 
-This is the first Readme file of my github.
+Here's the first README of my github.
 
-Thanks.
+thx
 
 Apr 23, 2018
